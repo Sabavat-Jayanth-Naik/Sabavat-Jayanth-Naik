@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sabavat-Jayanth-Naik" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jayanth+Naik!;" />
@@ -8,17 +7,7 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS, and web development**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Sabavat-Jayanth-Naik/Sabavat-Jayanth-Naik/issues)**
-
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
-</div>
  
 <div align="center"> 
   <a href="mailto:naikjayanth80@gmail.com">
